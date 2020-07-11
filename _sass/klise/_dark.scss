@@ -134,7 +134,7 @@ body[data-theme="dark"] {
       }
 
       .menu-link {
-        color: $dark-white;
+        color: $dark-text-link-blue;
       }
       @include media-query($on-mobile) {
         background-color: $dark-black;
@@ -163,6 +163,8 @@ body[data-theme="dark"] {
       color: $dark-white;
     }
     .post-item-title {
+      border-left: $dark-text-link-blue ridge 2px;
+      padding-left: 12px;
       a {
         color: $dark-text-base-color;
 
