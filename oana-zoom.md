@@ -1,6 +1,6 @@
 ---
 title: Oana Zoom
-permalink: /oana-zoom/
+permalink: /oana/
 layout: page
 excerpt: Zoom link pa la zoom class to wapa
 comments: false
